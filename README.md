@@ -33,6 +33,10 @@
     <a href="https://goodbyeads.weebly.com">
       Website
     </a>
+<span> | </span>
+    <a href="https://github.com/jerryn70/GoodbyeAds">
+      Github
+    </a>
   </h3>
 </div>
 
@@ -92,9 +96,8 @@ If you see it, then you are not using one of my lists.
 If you do not see it, then you are using one of my lists (or a list that includes one of my lists).
 If you are unsure if its working or not, you could go directly to the
 <a href="https://block-test.developerdan.com/">block test page</a>.
-
-                <a href="https://block-test.developerdan.com/">
-                    <img src="https://block-test.developerdan.com/not-blocking.png" class="block-image" width="320px" height="100px" alt="">
+<a href="https://block-test.developerdan.com/">
+<img src="https://block-test.developerdan.com/not-blocking.png" class="block-image" width="320px" height="100px" alt="">
                 </a>
 
 
