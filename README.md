@@ -94,10 +94,8 @@ GoodbyeAds Spotify AdBlock | Special List to Block Spotify Ads. | Any Device | 3
 Below is an image that says 'Not Blocking' that is blocked in all of my lists.
 If you see it, then you are not using one of my lists.
 If you do not see it, then you are using one of my lists (or a list that includes one of my lists).
-If you are unsure if its working or not, you could go directly to the
-<a href="https://block-test.developerdan.com/">block test page</a>.
-<a href="https://block-test.developerdan.com/">
-<img src="https://block-test.developerdan.com/not-blocking.png" class="block-image" width="320px" height="100px" alt="">
+<a>
+<img src="https://goodbyeads.weebly.com/uploads/1/2/2/1/122145164/not-blocking_orig.png" class="block-image" width="320px" height="100px" alt="">
                 </a>
 
 
