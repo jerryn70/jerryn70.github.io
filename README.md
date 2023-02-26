@@ -4,7 +4,9 @@
 
 ### Projects
 
-## GoodbyeAds
+## <a href="https://jerryn70.github.io/GoodbyeAds">GoodbyeAds</a>
+ 
+
 A collection of regularly updated host files for domain blocking. Currently has five list types: Ads & Tracking Adblock, Spotify adblock, Xiaomi adblock, Samsung adblock and YouTube adblock. Root domains are manually curated and then programmatically expanded to also block all known subdomains.
 
 - __Jerry Joseph__
