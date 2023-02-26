@@ -25,5 +25,5 @@ A collection of regularly updated host files for domain blocking. Currently has 
 
 
 <p align="center">
-  Made with ❤️ in Kerala 🌴
+  <strong>Made with ❤️ in Kerala 🌴</strong>
 </p>
