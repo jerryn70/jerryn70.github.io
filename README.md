@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://jerryn70.github.io)
 <h1 align="center">Hi 👋, I'm Jerry Joseph</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jerryn70" target="blank"><img src="https://img.shields.io/twitter/follow/jerryn70?logo=twitter&style=for-the-badge" alt="jerryn70" /></a> </p>
 
-- 🔭 I’m currently working on [GoodbyeAds](github.com/jerryn70/GoodbyeAds)
+- 🔭 I’m currently working on [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 
 - 👯 I have collaborations with **RethinkDNS**, **Blokada**
 
