@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://jerryn70.github.io)
-<h1 align="center">Hi 👋, I'm Jerry Joseph</h1>
+<h1 align="center">Hi, I'm Jerry Joseph</h1> 
 <h3 align="center">I am a seasoned computer systems analyst from India serving customers worldwide. I love working on nuanced projects, especially those with multilingual and international facets.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 
-- 👯 I have collaborations with **RethinkDNS**, **Blokada**
+- 👯 I have collaborations with **RethinkDNS**, **Blokada**, **personalDNSfilter**, **ControlD**, **NextDNS**, **KeweonDNS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jerryn70)
 
@@ -30,6 +30,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://paypal.me/jerryn70"> <img align="left" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/Paypal.png" height="50" width="210" alt="jerryn70" /></a></p><br><br>
+<p><a href="https://liberapay.com/jerryn70/donate"> <img align="left" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/LiberaPay.png" height="50" width="210" alt="jerryn70" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryn70&show_icons=true&locale=en&layout=compact" alt="jerryn70" /></p>
 
