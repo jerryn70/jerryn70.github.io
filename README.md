@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/jerryn70/jerryn70.github.io/main/Images/jerryn70%20logo.jpeg)](https://jerryn70.github.io)
+[![MasterHead](https://raw.githubusercontent.com/jerryn70/jerryn70.github.io/main/Images/jerryn70%20logo2.jpeg)](https://jerryn70.github.io)
 <h1 align="center">Hi, I'm Jerry Joseph</h1> 
 <h3 align="center">I am a seasoned computer systems analyst from India serving customers worldwide. I love working on nuanced projects, especially those with multilingual and international facets.
 </h3>
