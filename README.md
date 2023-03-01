@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://jerryn70.github.io)
+[![MasterHead](https://raw.githubusercontent.com/jerryn70/jerryn70.github.io/main/Images/jerryn70%20logo.jpeg)](https://jerryn70.github.io)
 <h1 align="center">Hi, I'm Jerry Joseph</h1> 
 <h3 align="center">I am a seasoned computer systems analyst from India serving customers worldwide. I love working on nuanced projects, especially those with multilingual and international facets.
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jerryn70/jerryn70.github.io/main/Images/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryn70&label=Profile%20views&color=0e75b6&style=flat" alt="jerryn70" /> </p>
 
