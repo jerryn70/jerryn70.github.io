@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Android, Ad-blocking, Privacy Security etc**
 
-- 📫 How to reach me **goodbyeads@tutamail.com**
+- 📫 How to reach me **Email id will be updated soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
