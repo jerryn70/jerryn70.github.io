@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/jerryn70" target="blank"><img src="https://img.shields.io/twitter/follow/jerryn70?logo=twitter&style=for-the-badge" alt="jerryn70" /></a> </p>
 
-- 🔭 I’m currently working on [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
+- 🔭 I’m currently working on [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds)
 
-- 👯 I have collaborations with **RethinkDNS**, **Blokada**, **personalDNSfilter**, **ControlD**, **NextDNS**, **KeweonDNS**
+- 👯 I have collaborations with **RethinkDNS**, **Blokada**, **personalDNSfilter**, **ControlD**, **NextDNS**, **KeweonDNS**, **AhaDNS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jerryn70)
 
